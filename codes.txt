@@ -1,0 +1,5 @@
+hwid = hdsaf87234kh02348asdfkgc
+username = uafkjwpqyasdfc0234asdfMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9ldd
+password = plkjfueadc0234ljf234jl0jfuywer02lkasdfpieykj
+
+set_hwid = s21087dsflkj2340pywadfjkweyidf34klj = (true/false)
